@@ -1,0 +1,17 @@
+[ 형 변환 ]
+
+문자형으로 변환
+
+- String(value)
+- alert()등으로 인한 자동 형변환
+
+숫자형으로 변환
+
+- Number()
+- 수학과 관련된 연산자 사용시
+- null은 0, undefined은 NaN 반환
+
+불린형으로 변환
+
+- Boolean()
+- !
