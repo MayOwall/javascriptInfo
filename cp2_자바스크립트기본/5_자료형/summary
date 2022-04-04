@@ -1,0 +1,24 @@
+자바스크립트는 동적 타입 언어
+자료형
+1. number
+  - NaN : 연산도중 오류가 발생했을 때 반환.
+  - BigInt : 큰 숫자, 높은 정밀도를 요구할 때 사용.
+
+2. string
+  - 큰따옴표, 작은따옴표, 백틱( ${} )
+
+3. boolean
+  - true / false
+
+4. null
+
+5. undefined
+  - undefined을 직접 할당하는 것은 권장되지 않음.
+
+6. 객체 & 심볼
+
+
+typeof
+ - 연산자 : typeof x
+ - 함수 : typeof(x)
+ - null의 type은 object로 반환 (초기 자바스크립트 오류)
